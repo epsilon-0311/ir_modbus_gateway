@@ -856,7 +856,7 @@
       (reference "U2") (unit 1) (value "ESP32-WROOM-32E_(16MB)") (footprint "ESP32-WROOM-32E:MODULE_ESP32-WROOM-32E_(16MB)")
     )
     (path "/cf26a7c6-d11e-4289-a32e-ecbd6ec8b6d7/767e069b-a7d5-4e86-8272-67aee71c9434"
-      (reference "Y1") (unit 1) (value "Crystal") (footprint "Crystal:Crystal_SMD_HC49-SD_HandSoldering")
+      (reference "Y1") (unit 1) (value "12,0000-HC49-SMD") (footprint "Crystal:Crystal_SMD_HC49-SD_HandSoldering")
     )
   )
 )
