@@ -2,4 +2,5 @@
   (lib (name "TS2596CM533")(type "KiCad")(uri "/home/christoph/git/ir_modbus_gateway/pcb/parts/TS2596CM533_RNG")(options "")(descr ""))
   (lib (name "ESP32-WROOM-32E")(type "KiCad")(uri "/home/christoph/git/ir_modbus_gateway/pcb/parts/ESP32-WROOM-32E__16MB_")(options "")(descr ""))
   (lib (name "MCP2200T-I_SS")(type "KiCad")(uri "/home/christoph/git/ir_modbus_gateway/pcb/parts/MCP2200T-I_SS")(options "")(descr ""))
+  (lib (name "ESP-WROOM-02D")(type "KiCad")(uri "/home/christoph/git/ir_modbus_gateway/pcb/parts/ESP-WROOM-02D")(options "")(descr ""))
 )

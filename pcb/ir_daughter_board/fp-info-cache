@@ -1,4 +1,4 @@
-19796114734237118
+19797756710719681
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51239,6 +51239,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+ESP-WROOM-02D
+MODULE_ESP-WROOM-02D
+Front Face Top
+
+0
+19
+19
 ESP32-WROOM-32E
 MODULE_ESP32-WROOM-32E_(16MB)
 
