@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP TS2596CM533_RNG
-D Switching Voltage Regulators 3.3V 3.0A
-K
-F https://www.taiwansemi.com/products/datasheet/TS2596_G1608.pdf
-$ENDCMP
-#
-#End Doc Library
