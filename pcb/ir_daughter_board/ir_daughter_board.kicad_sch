@@ -374,7 +374,7 @@
 
   (no_connect (at 38.1 53.34) (uuid 15d14662-4254-495b-ae58-20f5dc3ff5fa))
   (no_connect (at 80.01 50.8) (uuid 5c9ddc0d-3098-435e-8b8a-369154b1993f))
-  (no_connect (at 80.01 48.26) (uuid 5c9ddc0d-3098-435e-8b8a-369154b1993f))
+  (no_connect (at 80.01 48.26) (uuid 5c9ddc0d-3098-435e-8b8a-369154b19940))
   (no_connect (at 48.26 48.26) (uuid edf7754e-7a55-4853-a689-15768ed14e88))
 
   (wire (pts (xy 48.26 38.1) (xy 50.8 38.1))
@@ -755,9 +755,6 @@
     )
     (path "/94b6d409-7612-479f-948f-b06963020cf2/98cb23a8-f5ba-4b91-8232-acbeaaf51ea9"
       (reference "#PWR010") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/94b6d409-7612-479f-948f-b06963020cf2/3864a6ca-ca82-472d-acc6-f93eb1542483"
-      (reference "#PWR011") (unit 1) (value "GND") (footprint "")
     )
     (path "/94b6d409-7612-479f-948f-b06963020cf2/34b88398-3b20-4dad-b8d8-18f900f93153"
       (reference "#PWR012") (unit 1) (value "GND") (footprint "")
