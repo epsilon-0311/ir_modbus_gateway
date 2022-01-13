@@ -931,7 +931,7 @@
       (reference "SW2") (unit 1) (value "RESET") (footprint "Button_Switch_SMD:SW_SPST_Omron_B3FS-100xP")
     )
     (path "/cf26a7c6-d11e-4289-a32e-ecbd6ec8b6d7/dc11aef3-a143-45f2-a26b-9308850eef1f"
-      (reference "U1") (unit 1) (value "MCP2200T-I/SS") (footprint "MCP2200T-I_SS:SOP65P780X200-20N")
+      (reference "U1") (unit 1) (value "MCP2200T-I/SS") (footprint "Package_SO:SSOP-20_5.3x7.2mm_P0.65mm")
     )
     (path "/94b6d409-7612-479f-948f-b06963020cf2/f3686e8f-73b7-4743-bf1a-936cdb8400ed"
       (reference "U3") (unit 1) (value "ESP-WROOM-02") (footprint "RF_Module:ESP-WROOM-02")

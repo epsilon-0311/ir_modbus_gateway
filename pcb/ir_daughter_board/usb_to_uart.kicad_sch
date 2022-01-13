@@ -1157,7 +1157,7 @@
     (uuid dc11aef3-a143-45f2-a26b-9308850eef1f)
     (property "Reference" "U1" (id 0) (at 132.08 24.892 0))
     (property "Value" "MCP2200T-I/SS" (id 1) (at 132.08 27.432 0))
-    (property "Footprint" "MCP2200T-I_SS:SOP65P780X200-20N" (id 2) (at 132.08 53.34 0)
+    (property "Footprint" "Package_SO:SSOP-20_5.3x7.2mm_P0.65mm" (id 2) (at 132.08 53.34 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 132.08 53.34 0)

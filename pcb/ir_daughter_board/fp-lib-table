@@ -1,3 +1,2 @@
 (fp_lib_table
-  (lib (name "MCP2200T-I_SS")(type "KiCad")(uri "/home/christoph/git/ir_modbus_gateway/pcb/parts/MCP2200T-I_SS")(options "")(descr ""))
 )
