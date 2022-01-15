@@ -823,7 +823,7 @@
       (reference "#PWR0105") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/c53a31a5-455e-4246-be9a-65a85c21978a/2ffd51bc-71f3-4ccf-bb5c-c0ff70024d38"
-      (reference "C1") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C1") (unit 1) (value "4.7uF") (footprint "Capacitor_SMD:C_1210_3225Metric")
     )
     (path "/c53a31a5-455e-4246-be9a-65a85c21978a/257a4b8f-3dd6-469c-9002-6f51ff95fd30"
       (reference "C2") (unit 1) (value "18pF") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -889,7 +889,7 @@
       (reference "J3") (unit 1) (value "Conn_01x06") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
     )
     (path "/c53a31a5-455e-4246-be9a-65a85c21978a/ad3fe6ea-8026-4b02-9579-4810698e231f"
-      (reference "L1") (unit 1) (value "2.2uH") (footprint "Inductor_SMD:L_1206_3216Metric")
+      (reference "L1") (unit 1) (value "2.2uH") (footprint "Inductor_SMD:L_1210_3225Metric")
     )
     (path "/cf26a7c6-d11e-4289-a32e-ecbd6ec8b6d7/5c236eb1-ea85-45fb-9775-7f18317761df"
       (reference "R1") (unit 1) (value "1k1") (footprint "Resistor_SMD:R_0603_1608Metric")
